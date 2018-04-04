@@ -1,0 +1,16 @@
+{
+  "name": "deduped",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "private": true,
+  "scripts": {
+    "sample": "node . foo ./sample.csv"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "ramda": "^0.25.0",
+    "rxjs": "^5.5.8"
+  }
+}
